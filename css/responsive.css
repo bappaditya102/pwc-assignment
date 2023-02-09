@@ -1,0 +1,60 @@
+@media (max-width:1199px){
+    .vedio-section .video-content { padding: 58px 50px; }
+    .faq .container-fluid {  padding: 0 50px;}
+    .contact-group{ margin: 0 0 40px 50px;}
+}
+@media (max-width:1100px){
+    .contact-group{ margin: 0 0 40px 25px;}
+    .footer-top .social-icons li{ margin-right: 2px;}
+}
+@media (max-width:1025px){
+    .footer-top .social-icons li a{ width: 35px; height: 35px; line-height: 35px;}
+    .main-heading{ font-size: 30px; line-height: 36px;}
+    .contact-group { margin: 0 0 40px 0;}
+    .callto-action h2{ font-size: 30px;}
+    .vedio-section h2{ font-size: 30px;}
+}
+@media (max-width:991px){
+    .px-35{ padding-left: 5px !important;  padding-right: 5px !important;}
+    .content-text{ font-size: 14px;}
+    .about-us ul li{ font-size: 14px;}
+    .sub-heading{ font-size: 16px; margin-bottom: 0;}
+    .vedio-section h2 { font-size: 20px; }
+    .default-accordian .card .card-header .btn-link{ font-size: 14px;}
+    .callto-action h2{ font-size: 20px;}
+    .team .team-content ul li{ margin: 0 2px;}
+    .team .team-content ul li a{ width: 35px; height: 35px; line-height: 35px;}
+    .team .team-content h4{ font-size: 14px;}
+    .contact-group{ padding-left: 60px;}
+    .contact-group span{ width: 45px; line-height: 45px; height: 45px; font-size: 16px;}
+    .footer-top h2{ font-size: 16px;}
+    .footer-top ul li a{ font-size: 13px;}
+    .footer-top .content-text{ font-size: 13px;}
+    .email-example{ white-space: nowrap;}
+    .footer-top .social-icons li a {  width: 25px; height: 25px; line-height: 25px; font-size: 14px;}
+    .vedio-section .video-content{ padding: 25px;}
+    .navigation .navbar-brand img { max-height: 25px;}
+    .navbar-toggler i{ color: var(--white-text);}
+    .navigation .nav-item .nav-link{ margin: 0;}
+}
+@media (max-width:767px){
+    .service-section .service-container{ width: 100%;}
+    .header-top{ text-align: center;}
+    .callto-action .action-button{ text-align: center;}
+    .responsive-slider .owl-prev{ position: absolute; left: 22px; top: 16%; }
+    .responsive-slider .owl-next{ position: absolute; right: 22px; top: 16%;}
+    .responsive-slider .owl-next span, .responsive-slider .owl-prev span{ font-size: 50px; color: var(--black-text); font-weight: 400;}
+    .responsive-slider button{ border: none; outline: none;}
+    .team .team-image img{ max-width: 150px;}
+    .team .team-content{ margin-bottom: 30px; text-align: center;}
+    .team .team-content h4::after{ margin: 0 auto; right: 0;}
+    .callto-action{ text-align: center;}
+    .portfolio-tabs .responsive-slider .owl-prev{ position: absolute; left: 22px; top: 35%; }
+    .portfolio-tabs .responsive-slider .owl-next{ position: absolute; right: 22px; top: 35%;}
+    .portfolio-tabs .responsive-slider .owl-next span, .portfolio-tabs .responsive-slider .owl-prev span{ color: var(--white-text); font-weight: 400;}
+    .faq .container-fluid { padding: 0 20px; }
+    .footer-top ul{ margin:0 0 30px 0;}
+}
+@media (max-width:480px){
+    .portfolio-tabs .nav-tabs .nav-link{ padding: 6px 20px;}
+}
